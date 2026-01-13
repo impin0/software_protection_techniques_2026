@@ -1,6 +1,6 @@
 # Software Protection Techniques
-*Professor*: Lanzi Andrea
-*Exam*: Two parts; Lab, were you need to complete some exercises similar to the one taken during the course. Theory, a written test on the topic of the course. Project, can replace the exam
+*Professor*: Lanzi Andrea  
+*Exam*: Two parts; Lab, were you need to complete some exercises similar to the one taken during the course. Theory, a written test on the topic of the course. Project, can replace the exam  
 
 ### Contents
 1. Introduction to Software Security
