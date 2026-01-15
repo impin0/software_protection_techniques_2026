@@ -13,3 +13,6 @@
 8. Automated Reasoning for code security: Fuzzing Techniques
 9. Side Channel Attacks
 
+### C useful arguments:
+`gcc -S <filename.c>`: to create the assembler of the program
+`gcc -S -masm=intel <filename.c>`: to create the assembler of the program using the Intel syntax
