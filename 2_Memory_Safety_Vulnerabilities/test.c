@@ -1,15 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int sum(int, int);
+void test_function(int a, int b, int c, int d);
 
-int main(int argc, char *argv[]){
-    int a = 5, b = 10;
-
-    printf("%d\n", sum(a, b));
+int main(){
+   test_function(1, 2, 3, 4); 
 
     return EXIT_SUCCESS;
 }
-int sum(int x, int y){
-    return x + y;
+void test_function(int a, int b, int c, int d){
+    int flag;
+    char buffer[10];
+
+    flag = 31337;
+    buffer[0] = 'A';
+
+    return;
 }
